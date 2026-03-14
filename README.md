@@ -100,6 +100,11 @@ Green means near-perfect accuracy, yellow is acceptable but may include a small 
 
 ![colored_locate](images/colored_locate.png)
 
+
+
+
+    
+
 ### How to hide from the locator
 
 There are several ways to hide from the radar: sneaking (Shift), a mob's or another player's head, a carved pumpkin, or an invisibility potion.
